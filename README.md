@@ -1,6 +1,7 @@
 # 🎤 Speaker Recognition for User Authentication (MATLAB DSP)
 
-![Project Poster](assets/poster.png)
+![Project Poster] <img width="1002" height="755" alt="image" src="https://github.com/user-attachments/assets/46b7add7-d921-418a-9260-b96acf83c6d9" />
+
 
 ---
 
